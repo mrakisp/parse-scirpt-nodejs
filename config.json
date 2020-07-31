@@ -75,33 +75,13 @@
 			}
 
 		],
-		"claims" : {
-			"moduleViewsPath": "../claims/web/claims-web-jet/src/js",
-			"moduleName": "CLAIMS"
+		"project1" : {
+			"moduleViewsPath": "../project/src/js",
+			"moduleName": "PROJECT 1"
 		},
-		"product" : {
-			"moduleViewsPath": "../product/web/product-web-jet/src/js",
-			"moduleName": "PRODUCT"
-		},
-		"authorisation" : {
-			"moduleViewsPath": "../authorisation/web/authorisation-web-jet/src/js",
-			"moduleName": "AUTHORISATION"
-		},
-		"administration" : {
-			"moduleViewsPath": "../administration/web/administration-web-jet/src/js",
-			"moduleName": "ADMINISTRATION"
-		},
-		"common" : {
-			"moduleViewsPath": "../common/web/common-web-jet/src/js",
-			"moduleName": "COMMON"
-		},
-		"billing" : {
-			"moduleViewsPath": "../billing/web/billing-web-jet/src/js",
-			"moduleName": "BILLING"
-		},
-		"enrollment" : {
-			"moduleViewsPath": "../enrollment/web/enrollment-web-jet/src/js",
-			"moduleName": "ENROLLMENT"
+		"project2" : {
+			"moduleViewsPath": "../project2/src/js",
+			"moduleName": "PROJECT 2"
 		},
 
 
