@@ -1,0 +1,138 @@
+{
+	"root": {
+		"semanticSelectorsArray": [
+			{
+				"element": "input"
+			},
+			{
+				"element": "form"
+			},
+			{
+				"element": "textarea"
+			},
+			{
+				"element": "ul"
+			},
+			{
+				"element": "button"
+			},
+			{
+				"element": ".btn"
+			},
+			{
+				"element": ".input"
+			},
+			{
+				"element": "label"
+			},
+			{
+				"element": "oj-text-area"
+			},
+			{
+				"element": "oj-input-date"
+			},
+			{
+				"element": "oj-button"
+			},
+			{
+				"element": "oj-button"
+			},
+			{
+				"element": "oj-switch"
+			},
+			{
+				"element": "oj-select-one"
+			},
+			{
+				"element": "oj-label"
+			},
+			{
+				"element": ".panel"
+			},
+			{
+				"element": "oj-dialog"
+			},
+			{
+				"element": ".form_panel_container"
+			},
+			{
+				"element": ".mainwrapper"
+			},
+			{
+				"element": "table"
+			},
+			{
+				"element": "oj-list-view"
+			},
+			{
+				"element": "oj-checkboxset"
+			},
+			{
+				"element": "oj-option"
+			},
+			{
+				"element": "oj-input-text"
+			}
+
+		],
+		"claims" : {
+			"moduleViewsPath": "../claims/web/claims-web-jet/src/js",
+			"moduleName": "CLAIMS"
+		},
+		"product" : {
+			"moduleViewsPath": "../product/web/product-web-jet/src/js",
+			"moduleName": "PRODUCT"
+		},
+		"authorisation" : {
+			"moduleViewsPath": "../authorisation/web/authorisation-web-jet/src/js",
+			"moduleName": "AUTHORISATION"
+		},
+		"administration" : {
+			"moduleViewsPath": "../administration/web/administration-web-jet/src/js",
+			"moduleName": "ADMINISTRATION"
+		},
+		"common" : {
+			"moduleViewsPath": "../common/web/common-web-jet/src/js",
+			"moduleName": "COMMON"
+		},
+		"billing" : {
+			"moduleViewsPath": "../billing/web/billing-web-jet/src/js",
+			"moduleName": "BILLING"
+		},
+		"enrollment" : {
+			"moduleViewsPath": "../enrollment/web/enrollment-web-jet/src/js",
+			"moduleName": "ENROLLMENT"
+		},
+
+
+
+
+		
+		"viewPathList": [ 
+			{
+				"viewName": "",
+				"viewPath": "",
+				"elementsList": [
+					{
+						"selector": "",
+						"customSelector": ""
+					}
+				]
+			},
+			{
+				"viewName": "TestHtml",
+				"viewPath": "",
+				"elementsList": [
+					{
+						"selector": "btn--form_create_invoice-create_button",
+						"customSelector": "js--form_create_invoice-create_button"
+					},
+					{
+						"selector": "btn--form_create_invoice-create_button1",
+						"customSelector": "js--form_create_invoice-create_button1"
+					}
+				]
+			}
+		]
+	}
+}
